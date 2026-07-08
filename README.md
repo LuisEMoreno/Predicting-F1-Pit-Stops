@@ -14,12 +14,12 @@ He escogido el reto de "Predecir Paradas de Autos en carreras de F1" para AFILAR
 ### 1. Análisis Exploratorio de Datos (EDA)
 * Descubrimientos clave sobre las variables más importantes.
 * Manejo de datos sintéticos y desbalance severo de la variable objetivo `PitNextLap`.
-* *[Link al Notebook de EDA](notebooks/01_eda_pit_stops.ipynb)*
+* ** 🔗 [Ver Notebook de EDA](./notebooks/EDA_F1_Spit_Stops.ipynb)*
 
 ### 2. Estrategia de Modelado y Validación
 * **Algoritmos evaluados:** LightGBM, XGBoost, CatBoost y Balanced RF.
 * **Validación:** Implementación estricta de **Stratified 5-Fold Cross-Validation** para mitigar el sobreajuste y el *data leakage*.
-* *[Link al Notebook de Modelado](notebooks/02_model_tuning.ipynb)*
+* ** 🔗 [Ver Notebook de Exploracion](./notebooks/Exploracion de modelos _ F1 Spit Stop.ipynb)*
 
 ## 🛠️ Tecnologías Utilizadas
 * Python, LightGBM, Scikit-Learn, Pandas, Matplotlib/Seaborn, API de Kaggle.
