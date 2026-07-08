@@ -19,7 +19,7 @@ He escogido el reto de "Predecir Paradas de Autos en carreras de F1" para AFILAR
 ### 2. Estrategia de Modelado y Validación
 * **Algoritmos evaluados:** LightGBM, XGBoost, CatBoost y Balanced RF.
 * **Validación:** Implementación estricta de **Stratified 5-Fold Cross-Validation** para mitigar el sobreajuste y el *data leakage*.
-* ** 🔗 [Ver Notebook de Exploracion](./notebooks/Exploracion de modelos _ F1 Spit Stop.ipynb)*
+* ** 🔗 [Ver Notebook de Exploracion](./notebooks/Exploracion_de_modelos_F1_Spit_Stop.ipynb)*
 
 ## 🛠️ Tecnologías Utilizadas
 * Python, LightGBM, Scikit-Learn, Pandas, Matplotlib/Seaborn, API de Kaggle.
